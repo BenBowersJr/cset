@@ -1,0 +1,6 @@
+
+After the first course I would give myself a rating of 9/10. I understand all the topics we covered, If there was anything I did not understand, I would not hesitatie to ask questions or go to tutoring for help. For the next course, I dont think I would be doimg much differently apart from trying to work with my team more on slack.
+
+In the weresquirrel program both objects and arrays are used. Objects{} are Arrays[] are very similar, but are used differently. Arrays are a special version of a object. Objects hold keys and properties, each of those keys are stored in no particular order. In weresquirrel each day was an object, events/squirrel were keys inside of the object that could be called on. Array's hold values in a specific order at certain indexs starting at 0. so an array that looks like [a, b ,c] has the indexes of [0, 1, 2].
+
+When the author choose to use an array for the journal. He did this do he can easily assess the days in chronological order. Each index of the array, was an object for the day, Each object held the events and squirrel keys that could be modified or returned. In the adventure game from last week I couldve made the player an object with stats like health/mana that can be changed and modified during the game. 
