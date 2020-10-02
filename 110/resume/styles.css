@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+  color: #dbedf3;
+}
+body {
+  background: #171717;
+}
+header {
+  margin: 0;
+  padding: 0;
+  font-family: 'Cabin';
+  text-align: center;
+  font-weight: 700;
+  padding: 3em;
+  color: #dbedf3;
+}
+header small {
+  font-size: .3em
+}
+a:link {
+  color: aqua;
+}
+h1 {
+  font-size: 4em;
+}
+h2 {
+  padding-top: 1em;
+  font-size: 2em;
+  font-weight: 700;
+  font-family: 'Cinzel';
+  border-bottom: .1em solid #eee;
+  color: #dbedf3;
+}
+small {
+  display: block;
+  font-size: 1em;
+  align-self: center:
+}
+em {
+  font-style: italic;
+  font-size: 1.5em
+}
+p {
+  font-size: 1em;
+  margin-left: 20px;
+}
+.contact {
+  font-size: 1em;
+}
+.email{
+  color: aqua;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  text-decoration: line-through;
+  color: green;
+}
+a:hover {
+  color: blue;
+}
+a:active {
+  color: red;
+}
+dl {
+  margin-left: 1em;
+}
+dd {
+  padding: .2rem;
+}
+figure {
+  width: 275px;
+  margin-left: auto;
+  margin-right: auto;
+}
+figure img {
+  border-radius: 2rem;
+  border: .3rem solid #dbedf3;
+  margin: 20px auto;
+  transition: all 1s;
+}
+figure img:hover {
+  box-shadow: 5px 8px 5px #DBE;
+}
+figcaption {
+  font-family: 'Cinzel';
+  font-size: .9rem;
+  text-align: center;
+}
+.animation,
+.animation header a {
+  animation-name: colorChange;
+  animation-duration: .6s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+@keyframes colorChange {
+  from { color: #081f37; }
+  to { color: #1e549f; }
+}
+#make-this-wacky {
+    animation-name: colorChange;
+    animation-duration: .19s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+/* ANYTHING BELOW THIS IS FOR TESTING */
