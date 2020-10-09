@@ -1,0 +1,5 @@
+I personally will be trying to keep up with new tools and developments in our field by looking for articles or news about new tools. as well as keeping track of what becomes obsolete or new on mozilla's MDN reference.
+
+The main limitation with floats is not being able to work as a column up and down, floats only work in the row its being floated in. While flexbox allows its contents to be rotated to work as a column with ```flex-direction: row;```. flexbox can also order its items much easier and better than float can with its ```justify-content:``` property.
+
+By default flexbox orders its content as a row left to right. that is the main axis, the main axis is changed with the property ```justify-content:```. the cross axis is vertical. and it is changed by the  ```align-items:``` property. if the flexbox container was changed with the ```flex-direction:``` property then the main and cross axis also get rotated with it, so a flexbox in the direction of column, vertically would be changed with ```justify-content``` and horizontally with ```align-items``` properties. this is rotated on its side from the original default values.
