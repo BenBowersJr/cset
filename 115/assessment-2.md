@@ -1,0 +1,5 @@
+The most difficult aspect in developing with a larger team would be using the git branch commands. working with branches and pushing changes takes some getting used to.
+
+A remote is a copy of some code/repo, that is stored in a seperate location. we access our remote repositories of our projects stored on github with urls like ```git@github.com:BenBowersJr/dom-adventure-game.git```. and a branch is a seperate copy of the code/repo at a certain point of time. we can then change the code in the branch without changing the original code. later we can merge the branch back into the original code.
+
+for our projects this week we  used a centralized workflow, as well as a feature branch workflow. first we all created our own version of zacks code and worked on our own central repositories then the made our own "feature branches" of our groups code. We made changes to that branch and because we dont have access to the remote of our groups code. we issued a pull request, to ask the group memeber if they wanted to merge the branch into there code..

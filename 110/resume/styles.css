@@ -8,17 +8,11 @@ body {
 header {
   margin: 0;
   padding: 0;
-  font-family: 'Cabin';
+  font-family: 'Cabin', sans-serif;
   text-align: center;
   font-weight: 700;
   padding: 3em;
   color: #dbedf3;
-}
-header small {
-  font-size: .3em
-}
-a:link {
-  color: aqua;
 }
 h1 {
   font-size: 4em;
@@ -28,12 +22,12 @@ h2 {
   font-size: 2em;
   font-weight: 700;
   font-family: 'Cinzel';
-  border-bottom: .1em solid #eee;
+  border-bottom: 1mm solid #eee;
   color: #dbedf3;
 }
 small {
   display: block;
-  font-size: 1em;
+  font-size: .3em;
   align-self: center:
 }
 em {
@@ -46,9 +40,6 @@ p {
 }
 .contact {
   font-size: 1em;
-}
-.email{
-  color: aqua;
 }
 a:link {
   color: black;
@@ -71,8 +62,7 @@ dd {
 }
 figure {
   width: 275px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 figure img {
   border-radius: 2rem;
