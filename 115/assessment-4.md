@@ -1,0 +1,5 @@
+I feel very comfortable answering assessment questions like these during a job interview, they feel like normal questions that if you have prior knowledge of, shouldn't be an issue to answer. I feel like they have been more helpful than regular tests or quizzes.
+
+One of the most beneficial tooling's we learned this week has to be eslint, an npm package that will look over your code for programming or styling errors. it's so helpful to us as programmers to write good working code. It has become widely used, it can be seen everywhere and nearly every developer used it before.
+
+Waterfall and Agile are two different methodologies for working on a software project. The Waterfall method works in one direction. Design then code and then testing the software when finished. The Agile method is just like the waterfall method where it has design, coding, and testing, but each part doesn't happen in that order. The designing, coding, and testing all happen continuously during development untill it is finished.
